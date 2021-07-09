@@ -1,1 +1,3 @@
-# Training
+# Coursera
+Courses completed through Coursera
+ 
