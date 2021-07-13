@@ -1,1 +1,7 @@
+# Applied Analytics and Data for Decision Making
+by University at Buffalo & The State University of New York
 
+## About this Course
+By the end of this course, learners are prepared to identify and test the best solutions for improving performance and integrating concepts from operational excellence methodologies for optimum data-driven decision making. The course begins with a focus on deciphering the root cause of problems through a variety of tools before determining and assessing best-fit solutions. Learners discover how to apply ISO, Lean and Six Sigma in the pursuit of aligning organizational operations data with performance standards. Hospitality, manufacturing and e-commerce case studies help illustrate how to build data literacy while ensuring privacy and data ethics measures are in place. 
+
+Material features online lectures, videos, demos, project work, readings and discussions. This course is ideal for individuals keen on developing a data-driven mindset that derives powerful insights useful for improving a company’s bottom line. It is helpful if learners have some familiarity with reading reports, gathering and using data, and interpreting visualizations. It is the third course in the Data-Driven Decision Making (DDDM) specialization. To learn more about the specialization, check out a video overview at  https://www.youtube.com/watch?v=Oi4mmeSWcVc&list=PLQvThJe-IglyYljMrdqwfsDzk56ncfoLx&index=11.
