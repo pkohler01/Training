@@ -1,1 +1,7 @@
+# Data Analysis and Visualization
+by University at Buffalo & The State University of New York
 
+## About this Course
+By the end of this course, learners are provided a high-level overview of data analysis and visualization tools, and are prepared to discuss best practices and develop an ensuing action plan that addresses key discoveries. It begins with common hurdles that obstruct adoption of a data-driven culture before introducing data analysis tools (R software, Minitab, MATLAB, and Python). Deeper examination is spent on statistical process control (SPC), which is a method for studying variation over time. The course also addresses do’s and don’ts of presenting data visually, visualization software (Tableau, Excel, Power BI), and creating a data story.              
+
+Material features online lectures, videos, demos, project work, readings and discussions. This course is ideal for individuals keen on developing a data-driven mindset that derives powerful insights useful for improving a company’s bottom line. It is helpful if learners have some familiarity with reading reports, gathering and using data, and interpreting visualizations. It is the second course in the Data-Driven Decision Making (DDDM) specialization. To learn more about the specialization, check out a video overview at  https://www.youtube.com/watch?v=Oi4mmeSWcVc&list=PLQvThJe-IglyYljMrdqwfsDzk56ncfoLx&index=11.
