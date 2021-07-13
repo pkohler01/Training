@@ -1,1 +1,7 @@
+# Data-Driven Process Improvement
+by University at Buffalo & The State University of New York
 
+## About this Course
+By the end of this course, learners are empowered to implement data-driven process improvement objectives at their organization. The course covers: the business case for IoT (Internet of Things), the strategic importance of aligning operations and performance goals, best practices for collecting data, and facilitating a process mapping activity to visualize and analyze a process’s flow of materials and information. Learners are prepared to focus efforts around business needs, evaluate what the organization should measure, discern between different types of IoT data and collect key performance indicators (KPIs) using IoT technology. Learners have the opportunity to implement process improvement objectives in a mock scenario and consider how the knowledge can be transferred to their own organizational contexts.
+
+Material includes online lectures, videos, demos, project work, readings and discussions. This course is ideal for individuals keen on developing a data-driven mindset that derives powerful insights useful for improving a company’s bottom line. It is helpful if learners have some familiarity with reading reports, gathering and using data, and interpreting visualizations. It is the first course in the Data-Driven Decision Making (DDDM) specialization. To learn more about the specialization, check out a video overview at  https://www.youtube.com/watch?v=Oi4mmeSWcVc&list=PLQvThJe-IglyYljMrdqwfsDzk56ncfoLx&index=11.
