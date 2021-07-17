@@ -1,7 +1,7 @@
 # Responsive Website Development and Design Specialization
 Offered By UNIVERSITY OF LONDON GOLDSMITHS, UNIVERSITY OF LONDON
 
-![University of London](University+of+London+PNG.png)
+![University of London](University-of-London-PNG.png)
 
 ## About this Specialization
 Responsive web design is all about creating the best user experience regardless of whether a user is accessing your site from a desktop computer, a mobile phone, or a tablet. 
