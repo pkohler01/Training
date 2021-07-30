@@ -1,5 +1,5 @@
 # Responsive Website Development and Design Specialization
-Offered By UNIVERSITY OF LONDON GOLDSMITHS, UNIVERSITY OF LONDON
+Offered By UNIVERSITY OF LONDON and GOLDSMITHS, UNIVERSITY OF LONDON
 
 ![University of London](University-of-London-PNG.png)
 
