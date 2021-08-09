@@ -3,16 +3,15 @@
 */
 
 /** styling the title text 
-* set font size
-* set font family
-* set font color and alignment
-* set border style
+* Setting six different text changes
+* this is double the number the assignment asks for
 */
+
 h1{
-    font-size: 32px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #000000;
-    text-align: center;
-    border: 1px solid black;
-    border-radius: 6px;    
+    font-size: 32px; /* set font size */
+    font-family: Arial, Helvetica, sans-serif; /* set font family */
+    color: #FF0000; /* set font color */
+    text-align: center; /* set the text alignment */
+    border: 1px solid black; /* added a border around the text */
+    border-radius: 6px;    /* rounding the corners on that border */
 }
