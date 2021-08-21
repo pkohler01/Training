@@ -6,16 +6,16 @@ Many Project Managers focus only on the scope, schedule and budget.  However, a 
 
 By the end of this course you will be able to:
 
-•	Identify positive and negative risks
-•	Develop risk strategies
-•	Perform a qualitative risk analysis
-•	Identify cost contingencies and reserves
-•	Develop a quality plan
-•	Identify quality standards
-•	Utilize cause and effect tools 
-•	Create a prioritization matrix
-•	Develop a team management plan that includes team development, identifying team members and clarifies roles and responsibilities
-•	Develop a procurement plan that includes contracts and incentives
+-	Identify positive and negative risks
+-	Develop risk strategies
+-	Perform a qualitative risk analysis
+-	Identify cost contingencies and reserves
+-	Develop a quality plan
+-	Identify quality standards
+-	Utilize cause and effect tools 
+-	Create a prioritization matrix
+-	Develop a team management plan that includes team development, identifying team members and clarifies roles and responsibilities
+-	Develop a procurement plan that includes contracts and incentives
 
 All of this will position you to understand the more intangible aspects of project management to drive better overall performance.
 
