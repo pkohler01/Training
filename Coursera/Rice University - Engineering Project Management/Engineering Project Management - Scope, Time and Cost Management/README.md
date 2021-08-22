@@ -6,25 +6,25 @@ Scope, time, and cost management are at the heart of successful project manageme
 
 By the end of this course  you will be able to:
 
-•	Create a requirements document
-•	Create a Project Scope Statement
-•	Identify ways to control the scope of the project
-•	Decompose the work and develop work packages
-•	Create a Work Breakdown Structure
-•	Develop a Critical Path Schedule
-•	Review types of cost estimates and identify whether they are “top down or bottom up”
-•	Review budgets, contingencies and reserves
-•	Calculate planned and earned values to compare with actual cost
-•	Perform a cost and schedule analysis
+-	Create a requirements document
+-	Create a Project Scope Statement
+-	Identify ways to control the scope of the project
+-	Decompose the work and develop work packages
+-	Create a Work Breakdown Structure
+-	Develop a Critical Path Schedule
+-	Review types of cost estimates and identify whether they are “top down or bottom up”
+-	Review budgets, contingencies and reserves
+-	Calculate planned and earned values to compare with actual cost
+-	Perform a cost and schedule analysis
 
 Each week you will prepare a key deliverable for the project plan based on a provided Case Study.  These deliverables include:
 
-•	Project Scope Statement
-•	Project Work Breakdown Structure (WBS) and WBS dictionary
-•	Critical Path schedule sequence diagram
-•	Bar Chart Schedule (Gantt Chart)
-•	Project Cost Estimate
-•	Project Status using an Earned Value Calculation
+-	Project Scope Statement
+-	Project Work Breakdown Structure (WBS) and WBS dictionary
+-	Critical Path schedule sequence diagram
+-	Bar Chart Schedule (Gantt Chart)
+-	Project Cost Estimate
+-	Project Status using an Earned Value Calculation
 
 All of this will position you to set up a plan to control your next assignment or your next project whether this is as the project manager or as an area leader.
 
