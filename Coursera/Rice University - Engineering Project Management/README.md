@@ -1,6 +1,8 @@
 # Engineering Project Management Specialization
 Offered by Rice University
 
+![Riced](rice.png)
+
 ## About this Specialization
 ### Master strategies and tools to more effectively and successfully manage projects.
 Today’s professional environment is highly competitive, continuously changing, and difficult to manage. Employees rarely reach positions of leadership without managing one or more projects or a project segment early in their career. The goal of this Specialization is to give you the tools to more effectively and successfully manage projects; to give you a solid foundation of knowledge, skills, and confidence that sets you apart and gives you a competitive edge as you move toward leadership positions.
